@@ -310,16 +310,16 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left-color: #eeeeee;
+		border-left-color: #EEEEFF;
 	}
 
 	code {
 		background: rgba(220, 220, 220, 0.25);
-		border-color: #eeeeee;
+		border-color: #EEEEFF;
 	}
 
 	hr {
-		border-bottom-color: #eeeeee;
+		border-bottom-color: #EEEEFF;
 	}
 
 /* Row */
