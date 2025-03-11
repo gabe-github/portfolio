@@ -44,12 +44,10 @@ Here are some of the notable projects and blog posts I've worked on:
 3. **Active Directory Network Setup**
    - **Description**: Designed and implemented an Active Directory (AD) network to streamline user authentication and access control within an organization.
    - **Highlights**: Configured Domain Controller, AD roles, established group policies, and integrated security measures to ensure a secure and efficient network environment.
-   - **Link**: [WIP](./Active-Directory-Network-Setup/README.md)
 
 4. **Phishing Email Analysis**
    - **Description**: Analyzed phishing emails by examining email headers, metadata, and suspicious attachments to help users identify cyber threats.
    - **Highlights**: Published technical articles detailing the detection of phishing emails, contributing to user education and awareness.
-   - **Link**: [WIP](./Phishing-Analysis-Blog-Post/README.md)
 
 ## Blog
 
@@ -62,5 +60,5 @@ I maintain a cybersecurity-focused blog where I publish technical articles cover
 ## Contact
 
 - **Email**: [gabecon@protonmail.com](mailto:gabecon@protonmail.com)
-- **GitHub**: [github.com/gabe-github](https://github.com/gabe-github)
+- **GitHub Pages Site**: [https://gabe-github.github.io/portfolio/](https://gabe-github.github.io/portfolio/)
 - **Blog**: [dev.to/gabe-blog](https://dev.to/gabe-blog)
