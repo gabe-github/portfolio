@@ -60,5 +60,5 @@ I maintain a cybersecurity-focused blog where I publish technical articles cover
 ## Contact
 
 - **Email**: [gabecon@protonmail.com](mailto:gabecon@protonmail.com)
-- **GitHub Pages Site**: [https://gabe-github.github.io/portfolio/](https://gabe-github.github.io/portfolio/)
+- **Portfolio Landing Page**: [gabe.landing.host/portfolio](https://gabe.landing.host/portfolio)]
 - **Blog**: [dev.to/gabe-blog](https://dev.to/gabe-blog)
